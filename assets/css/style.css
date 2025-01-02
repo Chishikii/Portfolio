@@ -852,6 +852,12 @@ main {
     line-height: 1.6;
 }
 
+.timeline-text span {
+    display: inline-block;
+    color: var(--light-gray);
+    font-weight: var(--fw-600);
+}
+
 .timeline-item-list-entry {
     margin-top: 10px;
     color: var(--vegas-gold);
